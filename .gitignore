@@ -1,3 +1,17 @@
+# Secrets
+.env
+
+# Temp audio files
+temp_audio/
+
+# Binary files
+*.dll
+*.so
+
+# Audio files
+*.mp3
+*.wav
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
