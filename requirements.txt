@@ -1,0 +1,10 @@
+discord.py[voice]>=2.7.0
+discord-ext-voice-recv>=0.5.0
+faster-whisper>=1.2.0
+silero-vad>=6.2.0
+edge-tts>=7.2.0
+openai>=1.0.0
+python-dotenv>=1.0.0
+torch>=2.0.0
+torchaudio>=2.0.0
+numpy
